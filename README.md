@@ -1,16 +1,21 @@
-Para usar este arquivo é preciso instalar o Python 3.7 no seu computador.
+## Windows users:
+Para usar este arquivo Ã© preciso instalar o Python 3.7 no seu computador.
 
 Abra esse link no seu navegador: https://www.python.org/ftp/python/3.7.3/python-3.7.3-amd64.exe
 Vai baixar um arquivo. Quando terminar o download, de dois cliques para instalar o Python.
 
 IMPORTANTE: Marque a caixinha de ADD PYTHON TO PATH. 
-Isso vai facilitar sua vida. Pode permitir que o programa faça alterações no seu computador.
-Agora é só dar next next next..
+Isso vai facilitar sua vida. Pode permitir que o programa faÃ§a alteraÃ§Ãµes no seu computador.
+Agora Ã© sÃ³ dar next next next..
 
-Depois de finalizada a instalação é só dar dois cliques no arquivo "execute" dessa pasta.
+Depois de finalizada a instalaÃ§Ã£o Ã© sÃ³ dar dois cliques no arquivo "execute" dessa pasta.
 
-Para usar a sua própria Library, mude o .csv existente nessa pasta para o seu próprio. 
+Para usar a sua prÃ³pria Library, mude o .csv existente nessa pasta para o seu prÃ³prio. 
 Cuide para usar o mesmo nome: "My Library.csv"
 
-Dúvidas e sugestões para eca.luds@gmail.com
-Aproveite!
+DÃºvidas e sugestÃµes para eca.luds@gmail.com
+
+# Linux users:
+SÃ³ rodar o arquivo `main.py` usando python 3.6.
+
+`$ python main.py`
