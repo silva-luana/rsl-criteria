@@ -15,7 +15,7 @@ Cuide para usar o mesmo nome: "My Library.csv"
 
 Dúvidas e sugestões para eca.luds@gmail.com
 
-# Linux users:
-Só rodar o arquivo `main.py` usando python 3.6.
+## Linux users:
+Só rodar o arquivo `main.py` usando python 3.7.
 
 `$ python main.py`
